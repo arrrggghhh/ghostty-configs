@@ -5,4 +5,6 @@ font-feature = -calt
 cursor-style = block
 cursor-style-blink = true
 
+macos-option-as-alt = true
+
 keybind = global:super+shift+backslash=toggle_quick_terminal
