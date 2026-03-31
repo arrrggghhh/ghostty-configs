@@ -1,5 +1,7 @@
 font-family = "D2Coding Ligature Nerd Font Mono"
 font-size = 16
+font-feature = -liga
+font-feature = -calt
 cursor-style = block
 cursor-style-blink = true
 
